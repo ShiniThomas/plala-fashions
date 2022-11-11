@@ -4,7 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 keys.js
+=======
+/config
+>>>>>>> 6b909eb7f649e8cb88e0884bf8b7d241d8c9dc57
 
 # testing
 /coverage
